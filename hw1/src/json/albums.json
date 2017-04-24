@@ -1,0 +1,58 @@
+[
+   {
+      "title": "球場工程進度表",
+      "artist": "我想要新排球場",
+      "category": "工程、體育室",
+      "times": "3小時以前",
+      "reads": "00123",
+      "image": "https://i.imgur.com/NMCasSI.png",
+      "mainView": "https://i.imgur.com/BUkQoNL.jpg",
+      "descriptions_1": "     實在不知道該說些什麼，反正這個區塊就是演示文章的內容，新的排球場可能要等我延畢之類的了我好難過。",
+      "descriptions_2": "     然後因為想不到什麼內容，所以打得很簡短，正式的時候會根據情況複製校網的消息內容並附上來源，而新聞的底部會有其他相關新聞連結。"
+   },
+   {
+      "title": "自己的APP自己做！",
+      "artist": "我已經在做了．．．",
+      "category": "軟體操作、教學發展",
+      "times": "５天以前",
+      "reads": "00001",
+      "image": "https://i.imgur.com/NMCasSI.png",
+      "mainView": "https://i.imgur.com/HpzGdrU.png",
+      "descriptions_1": "     這個區塊就是演示文章的內容，修了老師的課就不用聽講座了～  此外由於學校新聞有近似表格的呈現方式，礙於時間只得省略，以圖片方式呈現於上方",
+      "descriptions_2": "     教學發展中心本學期特舉辦兩梯次APP設計入門工作坊，拋棄複雜的程式碼，使用簡易的積木式堆疊，由基礎開始教起，讓您第一次寫APP就上手！"
+   },
+   {
+      "title": "專案終於開起來了！",
+      "artist": "痛哭流涕，不知所云",
+      "category": "期中、軟體操作",
+      "times": "１天以前",
+      "reads": "66666",
+      "image": "https://i.imgur.com/NMCasSI.png",
+      "mainView": "https://i.imgur.com/8WavP0F.jpg",
+      "descriptions_1": "     實在不知道該說些什麼，專案開了快一個禮拜我好難過。只好緊急將期中作業完成。",
+      "descriptions_2": "     然後因為想不到什麼內容，所以打得很簡短，正式的時候不會是這種日記文章而是以校方或系上的連結消息為主，而新聞的底部會有其他相關新聞連結。"
+   },
+   {
+      "title": "學生二宿終於有熱水！",
+      "artist": "不只洗澡，泡麵也能煮",
+      "category": "工程、宿舍",
+      "times": "8小時以前",
+      "reads": "01314",
+      "image": "https://i.imgur.com/NMCasSI.png",
+      "mainView": "https://i.imgur.com/44lv698.jpg",
+      "descriptions_1": "     實在不知道該說些什麼，到了這個時間，實在不想花精力在沒難度的文章撰寫或複製新聞上。",
+      "descriptions_2": "     然後因為想不到什麼內容，所以打得很簡短，正式的時候不會是這種日記文章而是以校方或系上的連結消息為主，而新聞的底部會有其他相關新聞連結。"
+   },
+   {
+      "title": "2017校園創業競賽開跑",
+      "artist": "想失業嗎？先創業吧！",
+      "category": "教學發展、講座",
+      "times": "9天以前",
+      "reads": "00168",
+      "image": "https://i.imgur.com/NMCasSI.png",
+      "mainView": "https://i.imgur.com/5uijgvx.jpg",
+      "descriptions_1": "     這個區塊就是演示文章的內容，失業只是開個玩笑～  此外由於學校新聞有近似表格的呈現方式，礙於時間只得省略，以圖片方式呈現於上方",
+      "descriptions_2": "     全球創業熱，不安躁動的你，想創業又想拿獎金嗎？還等什麼！！帶著你的創業計畫，不要等待快來報名！！本次教發中心特舉辦競賽說明會，歡迎有興趣的同學前來參與。"
+   },
+   
+]
